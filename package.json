@@ -1,0 +1,15 @@
+{
+  "name": "nanothread-optim-cli",
+  "version": "1.0.0",
+  "description": "High‑performance concurrency utility for executing shell commands across threads",
+  "type": "module",
+  "bin": {
+    "nanothread-optim": "./src/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": ["developer-tools","automation","cli","nodejs","concurrency","worker_threads"],
+  "author": "Suman Mehta",
+  "license": "MIT"
+}
